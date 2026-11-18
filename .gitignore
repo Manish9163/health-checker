@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Node
+node_modules/
+
+# Build output
+frontend-react/dist/
+
+# Environment variables (contains API key)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
